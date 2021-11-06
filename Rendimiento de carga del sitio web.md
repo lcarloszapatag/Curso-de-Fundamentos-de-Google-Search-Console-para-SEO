@@ -8,3 +8,6 @@ NOTA:Se recomienda que no tenga ese circulito de carga que a veces vemos en algu
 
 
    *FIS: Cuánto tiempo tarda el sitio web en reaccionar a una acción.
+   
+   
+   " tanto en la parte web como en la movil se encuentran problemas LCP CLS  "
