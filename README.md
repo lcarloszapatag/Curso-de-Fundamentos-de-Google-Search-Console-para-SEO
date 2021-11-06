@@ -19,6 +19,8 @@ apuntes del curso https://platzi.com/cursos/google-search-console/
 
 9.[¿Qué son los SERPs?](https://github.com/lcarloszapatag/Curso-de-Fundamentos-de-Google-Search-Console-para-SEO/blob/main/%C2%BFQu%C3%A9%20son%20los%20SERPs%3F.md)
 
+10.[Rendimiento de carga del sitio web](https://github.com/lcarloszapatag/Curso-de-Fundamentos-de-Google-Search-Console-para-SEO/blob/main/Rendimiento%20de%20carga%20del%20sitio%20web.md)
+
 14.[Trafico desde Buscadores](https://github.com/lcarloszapatag/Curso-de-Fundamentos-de-Google-Search-Console-para-SEO/blob/main/Trafico%20desde%20Buscadores.md)
 
 15.[Terminos de Busqueda](https://github.com/lcarloszapatag/Curso-de-Fundamentos-de-Google-Search-Console-para-SEO/blob/main/%C3%A9rminos%20de%20b%C3%BAsqueda.md)
