@@ -11,3 +11,6 @@ Esto va a depender de la estructura de cada contenido como:
  • Formato lista (Paso a paso)
  No significa destacado porque se vea más sino porque es un término técnico. También existen los resultados enriquecidos, como las estrellas de reseñas o fechas de eventos   próximos.
  Con technicalseo.com podemos crear contenidos enriquecidos basándonos en schema.org para indicarle al algoritmo que tenemos artículos, migas de navegación, eventos,   preguntas y respuestas, etc
+ 
+ 
+ el profesor utiliza la herramienta https://technicalseo.com/tools/
