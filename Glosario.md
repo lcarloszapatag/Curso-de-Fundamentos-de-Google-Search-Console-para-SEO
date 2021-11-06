@@ -43,4 +43,4 @@ URL Canónical
 Es una referencia que se hace a través de una etiqueta de HTML para indicarle al algoritmo de Google si un contenido es original o si hace referencia a otro.
 
 Tráfico orgánico
-El tráfico que adquiere un sitio web sin tener que p
+El tráfico que adquiere un sitio web sin tener que pagar.
