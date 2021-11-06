@@ -21,4 +21,6 @@ apuntes del curso https://platzi.com/cursos/google-search-console/
 
 14.[Trafico desde Buscadores](https://github.com/lcarloszapatag/Curso-de-Fundamentos-de-Google-Search-Console-para-SEO/blob/main/Trafico%20desde%20Buscadores.md)
 
+17.[Enlaces internos](https://github.com/lcarloszapatag/Curso-de-Fundamentos-de-Google-Search-Console-para-SEO/blob/main/enlaces-internos.md)
+
 20[Glosario](https://github.com/lcarloszapatag/Curso-de-Fundamentos-de-Google-Search-Console-para-SEO/blob/main/Glosario.md)
