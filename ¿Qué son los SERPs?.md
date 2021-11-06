@@ -1,7 +1,10 @@
 ¿Qué son los SERPs?
+
 Significa Páginas de resultados del buscador (Search Engine Result Pages).
 ¿Cómo se obtienen los resultados destacados?
+
 Esto va a depender de la estructura de cada contenido como:
+
 • Subtítulos
 • Tabla de navegación
 • Primer párrafo entre 45-60 palabras
