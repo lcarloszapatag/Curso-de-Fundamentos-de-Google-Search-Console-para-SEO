@@ -11,4 +11,4 @@ apuntes del curso https://platzi.com/cursos/google-search-console/
 
 5.[Limpiar enlaces](https://github.com/lcarloszapatag/Curso-de-Fundamentos-de-Google-Search-Console-para-SEO/blob/main/Limpieza%20de%20enlaces%20SPAM.md)
 
-6.[Eliminacion de URL]https://github.com/lcarloszapatag/Curso-de-Fundamentos-de-Google-Search-Console-para-SEO/blob/main/Eliminaci%C3%B3n%20de%20URLs.md)
+6.[Eliminacion de URL](https://github.com/lcarloszapatag/Curso-de-Fundamentos-de-Google-Search-Console-para-SEO/blob/main/Eliminaci%C3%B3n%20de%20URLs.md)
