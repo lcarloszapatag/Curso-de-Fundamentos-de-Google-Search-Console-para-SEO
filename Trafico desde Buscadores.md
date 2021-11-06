@@ -2,14 +2,14 @@
 
 * ¿Cual es el top de pagínas que más reciben Tráfico desde Google?
 
-* ¿Cual es el top de pagínas que más reciben Tráfico desde Google?
+* ¿Cuales son las busquedas que proveen tráfico al sitio web?
 
-* ¿Cual es el top de pagínas que más reciben Tráfico desde Google?
+* ¿Cuales son las busquedas que proveen trafico a una URL?
 
-* ¿Cual es el top de pagínas que más reciben Tráfico desde Google?
+* ¿Cual es la posición del sitio web para una busqueda  en un país?
 
-* ¿Cual es el top de pagínas que más reciben Tráfico desde Google?
+* ¿Cual es el porcentaje de dispositivos desde donde llega el tráfico?
 
-* ¿Cual es el top de pagínas que más reciben Tráfico desde Google?
+* ¿Que resultados del sitio web se muestran en Google?
 
-* ¿Cual es el top de pagínas que más reciben Tráfico desde Google?
+* ¿Cual es el top de páginas con mas enlaces externos?
