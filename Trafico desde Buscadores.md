@@ -13,3 +13,9 @@
 * ¿Que resultados del sitio web se muestran en Google?
 
 * ¿Cual es el top de páginas con mas enlaces externos?
+
+
+## Nota En el checkList poner el hallazgo y recomendación.
+
+ * el profe pone paginas que mas trafico recibe desde google y pone como recomendación 
+ * crear mas contenido que no expiren(Tipo evergreen) para mantener el trafico en aumento. 
