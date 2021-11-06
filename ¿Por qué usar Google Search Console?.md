@@ -4,3 +4,7 @@
 * Identificar oportunidades para incrementar [visibilidad](https://www.youtube.com/watch?v=HERxVe434_U)
 
 ## Proyecto del Curso
+* Auditoria de acceso e indexacion sitio web.
+* Auditoria de rendimiento(performance y usabilidad.
+* Diagnostico de una URL especifica.
+* Fourth item
