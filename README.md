@@ -25,6 +25,8 @@ apuntes del curso https://platzi.com/cursos/google-search-console/
 
 12.[Optimización internacional](https://github.com/lcarloszapatag/Curso-de-Fundamentos-de-Google-Search-Console-para-SEO/blob/main/Optimizaci%C3%B3n%20internacional.md)
 
+13.[Problemas de seguridad y penalizaciones](https://github.com/lcarloszapatag/Curso-de-Fundamentos-de-Google-Search-Console-para-SEO/blob/main/Problemas%20de%20seguridad%20y%20penalizaciones%20manuales.md)
+
 14.[Trafico desde Buscadores](https://github.com/lcarloszapatag/Curso-de-Fundamentos-de-Google-Search-Console-para-SEO/blob/main/Trafico%20desde%20Buscadores.md)
 
 15.[Terminos de Busqueda](https://github.com/lcarloszapatag/Curso-de-Fundamentos-de-Google-Search-Console-para-SEO/blob/main/%C3%A9rminos%20de%20b%C3%BAsqueda.md)
