@@ -18,3 +18,5 @@ apuntes del curso https://platzi.com/cursos/google-search-console/
 8.[Rastrea el sitio web como Google y solicita rastreo de una URL](https://github.com/lcarloszapatag/Curso-de-Fundamentos-de-Google-Search-Console-para-SEO/blob/main/Rastrea%20el%20sitio%20web%20como%20Google%20y%20solicita%20rastreo%20de%20una%20URL.md)
 
 9.[¿Qué son los SERPs?](https://github.com/lcarloszapatag/Curso-de-Fundamentos-de-Google-Search-Console-para-SEO/blob/main/%C2%BFQu%C3%A9%20son%20los%20SERPs%3F.md)
+
+20[Glosario](https://github.com/lcarloszapatag/Curso-de-Fundamentos-de-Google-Search-Console-para-SEO/blob/main/Glosario.md)
