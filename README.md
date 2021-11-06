@@ -10,3 +10,5 @@ apuntes del curso https://platzi.com/cursos/google-search-console/
 4.[Envía el mapa del sitio XML](https://github.com/lcarloszapatag/Curso-de-Fundamentos-de-Google-Search-Console-para-SEO/blob/main/Env%C3%ADa%20el%20mapa%20del%20sitio%20XML.md)
 
 5.[Limpiar enlaces](https://github.com/lcarloszapatag/Curso-de-Fundamentos-de-Google-Search-Console-para-SEO/blob/main/Limpieza%20de%20enlaces%20SPAM.md)
+
+6.[Eliminacion de URL]https://github.com/lcarloszapatag/Curso-de-Fundamentos-de-Google-Search-Console-para-SEO/blob/main/Eliminaci%C3%B3n%20de%20URLs.md)
