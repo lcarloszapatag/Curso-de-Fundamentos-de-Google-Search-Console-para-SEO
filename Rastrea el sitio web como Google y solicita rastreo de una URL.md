@@ -34,5 +34,9 @@ Espero que esta info te ayude
   
   
   " rastear a indexacion 
-  lleva todo lo que encuentra en tu pagina y empieza a relacionar tu contenido con lo que preguntas 
-  que suele responder a los usuarios que hacen las busquedas
+  lleva todo lo que encuentra en tu pagina y empieza a relacionar tu contenido con las  preguntas que hacen los usuarios y
+  que suele responder a los usuarios que hacen las busquedas.
+
+  
+  definicion indexacion:Indexación
+Es el proceso que hace Google de guardar y clasificar la información de los sitios web para luego mostrar en los resultados de búsqueda
