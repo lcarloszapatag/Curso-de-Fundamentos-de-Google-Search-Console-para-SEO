@@ -5,3 +5,5 @@ Limpieza de enlaces SPAM
 * Evitar penalizaciones.
 
 Buscar los enlaces externos en gsc
+
+ver que enlaces son spam y cuales de calidad.
